@@ -83,9 +83,9 @@ OIBsIP/
 ## Video Demos
 
 Each task has a corresponding demo video showing the application in action:
-- Task 1 Demo: [Link to your video]
-- Task 2 Demo: [Link to your video]
-- Task 4 Demo: [Link to your video]
+- Task 1 Demo: [Number_Guessing_Game](https://www.linkedin.com/posts/gift-hlahla-9437953b6_oasisinfobyte-javadevelopment-internship-activity-7464527923367063552-t4pF?utm_source=share&utm_medium=member_android&rcm=ACoAAGWQNAMBDLE5vPvyUQJZQN2f0rYyKY5dWgM)
+- Task 2 Demo: [Automated_Tailor_Machine](https://www.linkedin.com/posts/gift-hlahla-9437953b6_oasisinfobyte-javadevelopment-internship-activity-7465253957217685504-XjaT?utm_source=share&utm_medium=member_android&rcm=ACoAAGWQNAMBDLE5vPvyUQJZQN2f0rYyKY5dWgM)
+- Task 4 Demo: [Online_Exams](https://www.linkedin.com/posts/gift-hlahla-9437953b6_oasisinfobyte-javadevelopment-internship-activity-7466063344433782784--blx?utm_source=share&utm_medium=member_android&rcm=ACoAAGWQNAMBDLE5vPvyUQJZQN2f0rYyKY5dWgM)
 
 ---
 
